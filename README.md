@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luonghien0281
-- 👀 I’m Vietnamese in Korea. I learn application of information technology on car with c, c++, python...
+- 👀 I’m Vietnamese in Korea. I learn application of information technology on car with c, c++, python, Java...
 
 <!---
 luonghien0281/luonghien0281 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
